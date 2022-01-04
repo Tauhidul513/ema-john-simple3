@@ -1,0 +1,17 @@
+.product {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    border-bottom: 1px solid lightgray;
+}
+
+.product-style {
+    text-align: left;
+}
+
+.btn-regular {
+    background-color: orange;
+    height: 30px;
+    width: 150px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
